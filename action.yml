@@ -15,5 +15,5 @@ inputs:
     description: 'Set file permissions (default 0600)'
     required: false
 runs: 
-  using: 'node12'
+  using: 'node20'
   main: 'index.js'
